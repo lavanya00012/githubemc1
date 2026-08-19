@@ -1,1 +1,0 @@
-This is file named as test3.txt
